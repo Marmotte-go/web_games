@@ -1,0 +1,12 @@
+$primary: #19376d;
+$primaryDark: #0b2447;
+$primaryLight: #576cbc;
+$secondary: #a5d7e8;
+$secondaryDark: #7db9d8;
+$secondaryLight: #cbe4f2;
+
+.App {
+  background: $primaryDark;
+  min-height: 100vh;
+  color: white;
+}
