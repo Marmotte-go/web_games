@@ -1,5 +1,15 @@
-
+@import '../App.scss';
 
 .minesweeper{
-
+  min-height: 100vh;
+  min-width: 750px;
+  width: calc(100vw - 250px);
+  color: white;
+  position: relative;
+  left: 250px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
 }

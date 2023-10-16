@@ -18,6 +18,7 @@ const Home = () => {
             <Link to="/minesweeper">Minesweeper</Link>
           </li>
         </ul>
+        <footer>Check my <Link to="https://yuankedev.fun" target="_blank" rel="noopener noreferrer">portfolio</Link> for more</footer>
       </div>
       <Outlet />
     </div>
